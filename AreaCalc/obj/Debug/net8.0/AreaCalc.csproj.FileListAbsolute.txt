@@ -1,0 +1,17 @@
+D:\VSProjects\AreaCalc\AreaCalc\bin\Debug\net8.0\AreaCalc.exe
+D:\VSProjects\AreaCalc\AreaCalc\bin\Debug\net8.0\AreaCalc.deps.json
+D:\VSProjects\AreaCalc\AreaCalc\bin\Debug\net8.0\AreaCalc.runtimeconfig.json
+D:\VSProjects\AreaCalc\AreaCalc\bin\Debug\net8.0\AreaCalc.dll
+D:\VSProjects\AreaCalc\AreaCalc\bin\Debug\net8.0\AreaCalc.pdb
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.AssemblyInfoInputs.cache
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.AssemblyInfo.cs
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.csproj.CoreCompileInputs.cache
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.dll
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\refint\AreaCalc.dll
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.pdb
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.genruntimeconfig.cache
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\ref\AreaCalc.dll
+D:\VSProjects\AreaCalc\AreaCalc\bin\Debug\net8.0\Spectre.Console.dll
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.csproj.AssemblyReference.cache
+D:\VSProjects\AreaCalc\AreaCalc\obj\Debug\net8.0\AreaCalc.csproj.Up2Date
